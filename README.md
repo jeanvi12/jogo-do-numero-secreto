@@ -28,7 +28,7 @@ Cada tentativa revela dicas valiosas e um feedback sonoro para deixar a experiê
 - **Interface Responsiva:** Design otimizado para todos os dispositivos.
 - **Reinício Rápido:** Reinicie o jogo a qualquer momento sem precisar recarregar a página.
 
----
+
 
 ## 🎯Como Jogar
 
