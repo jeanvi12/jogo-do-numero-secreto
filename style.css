@@ -112,6 +112,10 @@ button:disabled {
 
 @media screen and (max-width: 1250px) {
 
+    .container{
+        justify-content: center;
+    }
+    
     h1 {
         font-size: 50px;
     }
@@ -132,7 +136,6 @@ button:disabled {
     .container__conteudo {
         display: block;
         position: inherit;
-        justify-content: center;
     }
 
     .container__informacoes {
