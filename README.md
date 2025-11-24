@@ -7,7 +7,7 @@ Bem-vindo ao **Jogo do Número Secreto**!
 Um desafio interativo onde você deve adivinhar um número aleatório entre **1 e 100**.  
 Cada tentativa revela dicas valiosas e um feedback sonoro para deixar a experiência mais acessível!
 
-### Link do jogo online: https://jogo-do-numero-secreto-beta-two-52.vercel.app/
+🔗 **[Acesse o projeto online]( https://jogo-do-numero-secreto-beta-two-52.vercel.app/)**
 ---
 
 ## 🚀Tecnologias Utilizadas
@@ -36,7 +36,11 @@ Cada tentativa revela dicas valiosas e um feedback sonoro para deixar a experiê
 2. **Clique em "Chutar":** Veja se você acertou o número secreto.
 3. **Desafie-se novamente:** Ao acertar, descubra o número de tentativas e jogue novamente!
 
+## 👥 Autores
+
+- Desenvolvido por Jeanviesk Com a ajuda da Alura💙
 ---
+
 
 🥳Divirta-se e desafie sua intuição com este jogo simples, mas super envolvente!  
 🌐Sinta-se à vontade para explorar, sugerir melhorias e contribuir para este projeto.
