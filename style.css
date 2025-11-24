@@ -132,6 +132,7 @@ button:disabled {
     .container__conteudo {
         display: block;
         position: inherit;
+        justify-content: center;
     }
 
     .container__informacoes {
